@@ -9,7 +9,9 @@ simple room reflections, instant SPACE-bar regeneration, and S-key preservation.
 
 The white/grey panel + blue LCD + black rotary controls are a broad tabletop
 hardware-synth aesthetic rather than a pixel-for-pixel copy of any commercial
-instrument.CONTROL
+instrument.
+
+CONTROL
 -------
 SPACE   REBIRTH / randomize a new quartet hymn and play it
 ENTER   replay current hymn
