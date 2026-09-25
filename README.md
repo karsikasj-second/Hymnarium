@@ -13,6 +13,7 @@ instrument.
 
 CONTROL
 -------
+
 SPACE   REBIRTH / randomize a new quartet hymn and play it
 ENTER   replay current hymn
 S       save current full hymn as a 24-bit WAV
